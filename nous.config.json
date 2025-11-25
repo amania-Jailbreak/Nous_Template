@@ -1,5 +1,5 @@
 {
   'name': 'Template',
   'setup': 'uv pip install requests',
-  'start': 'python main.py',
+  'start': 'python main.py'
 }
